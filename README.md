@@ -23,10 +23,9 @@ Make sure the following files are in the same folder as `kiro-solutions.exe`:
 ## 💬 Community
 
 Join our Discord server for support, updates, and community chat:  
-👉 [**Join Discord**](https://discord.gg/d4ZhmGTMNW)
-
 > 🔁 If the Discord link is dead, check website...  
-🌐 [**https://kirowater.xyz**](https://kirowater.xyz)
+👉 [**discord.gg/kirowater**](https://discord.gg/d4ZhmGTMNW)  
+🌐 [**kirowater.xyz**](https://kirowater.xyz)
 
 ## 💸 Support / Donate
 
