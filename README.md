@@ -39,8 +39,6 @@ If you want to support this free project, donations are appreciated 🙏
 
 Thanks for helping keep the project alive ❤️
 
-> 📎 *For educational purposes only.*
-
 ## 📙 Features
 > there are way much more, here are just the most important!
 
@@ -129,3 +127,6 @@ Thanks for helping keep the project alive ❤️
 - Exit with End Key  
 
 </details>
+
+
+> 📎 *Project for educational purposes only.*
