@@ -22,10 +22,9 @@ Make sure the following files are in the same folder as `kiro-solutions.exe`:
 
 ## 💬 Community
 
-Join our Discord server for support, updates, and community chat:  
-> 🔁 If the Discord link is dead, check website...  
-👉 [**discord.gg/kirowater**](https://discord.gg/d4ZhmGTMNW)  
-🌐 [**kirowater.xyz**](https://kirowater.xyz)
+instead of community just create a new issue if the cheat doesn't work...  
+i'm tired of this discord server nonsense, use something else...
+I recommend Perception / Kyvra(Matrix) / Streck DMA / (anything else...)
 
 ## 💸 Support / Donate
 
