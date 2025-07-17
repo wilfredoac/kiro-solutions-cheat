@@ -24,7 +24,12 @@ Make sure the following files are in the same folder as `kiro-solutions.exe`:
 
 Instead of community just create a new issue if the cheat doesn't work...  
 I'm tired of this discord server nonsense, use something else...  
-I recommend Perception / Kyvra(Matrix) / Streck DMA / (anything else...)
+I recommend Perception / Kyvra(Matrix) / Streck DMA / FapperDMA / (anything else...)
+
+- FapperDMA https://discord.gg/fQFWyrNGXv 
+- Perception https://discord.gg/VXnXCqu2Zq
+- Kyvra https://discord.gg/GKrUseWWGv
+- Streck https://discord.com/invite/streck
 
 ## 💸 Support / Donate
 
