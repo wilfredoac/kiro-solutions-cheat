@@ -1,5 +1,7 @@
 # kiro-solutions fn dma cheat
 
+- updated 7/17/2025
+
 ## 🚀 How to Use
 
 1. Run the cheat before launching **FN**.
