@@ -1,6 +1,7 @@
 # kiro-solutions fn dma cheat
 
 - updated 7/17/2025
+- **I sell this cheat's source code for 75$ can be negotiated, I accept paypal or crypto / discord: kirowater**
 
 ## 🚀 How to Use
 
